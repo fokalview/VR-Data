@@ -46,17 +46,23 @@ You can make images into links like this:
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/0cc21ddd8b9c403b856b1dbe925a4ab5)
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/16bb6b65f8894e7383ba5840939508d5)
+[![image](https://github.com/fokalview/VR-Data/blob/master/HTC.png)](https://vizhub.com/fokalview/16bb6b65f8894e7383ba5840939508d5)
+HTC
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/02c750bd8dea4c309fd682feb4ce7470)
+[![image](https://github.com/fokalview/VR-Data/blob/master/oculus.png)](https://vizhub.com/fokalview/02c750bd8dea4c309fd682feb4ce7470)
+Occulus
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/5325ee30f3aa4482bba707138034e637)
+[![image](https://github.com/fokalview/VR-Data/blob/master/Assitivetech.png)](https://vizhub.com/fokalview/5325ee30f3aa4482bba707138034e637)
+Assistive Technology
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/0b4d4f422e2f4721b963b242b6388e84)
+[![image](https://github.com/fokalview/VR-Data/blob/master/VRExp.png)](https://vizhub.com/fokalview/0b4d4f422e2f4721b963b242b6388e84)
+VR Experience
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/772e7b2285d643cbaab3892a6d7d9300)
+[![image](https://github.com/fokalview/VR-Data/blob/master/Immerion%20SCore.png)](https://vizhub.com/fokalview/772e7b2285d643cbaab3892a6d7d9300)
+Impact on Score
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/Engagment.png)](https://vizhub.com/fokalview/634ce52577aa4d509d022628e38526c3)
+Engagment
 
 ```
 
