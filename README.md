@@ -30,43 +30,95 @@ The following tasks and questions will drive the visualization and interaction d
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 
+
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. The visiualiatios range from stater plot, to data trees. 
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
+---
 
-You can put images into here by pasting them into issues.
+[![image](https://github.com/fokalview/VR-Data/blob/master/3panel.png)](https://vizhub.com/fokalview/f2e723cc55194e98ab325c524371c4e4)
 
-You can make images into links like this:
+<div align="center">
 
-[![image](https://github.com/fokalview/VR-Data/blob/master/3panel.png)](https://vizhub.com/fokalview/f2e723cc55194e98ab325c524371c4e4) Playstatiion VR
-A 3 Panel Spread of Playstation VR, HTC, and Occuslus
+### **PlayStation VR**  
+### **A 3 Panel Spread of PlayStation VR, HTC, and Oculus**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/PlaystationVR.png)](https://vizhub.com/fokalview/0cc21ddd8b9c403b856b1dbe925a4ab5)
-PlayStation VR
+
+<div align="center">
+
+### **PlayStation VR**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/HTC.png)](https://vizhub.com/fokalview/16bb6b65f8894e7383ba5840939508d5)
-HTC
+
+<div align="center">
+
+### **HTC**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/oculus.png)](https://vizhub.com/fokalview/02c750bd8dea4c309fd682feb4ce7470)
-Occulus
+
+<div align="center">
+
+### **Oculus**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/Assitivetech.png)](https://vizhub.com/fokalview/5325ee30f3aa4482bba707138034e637)
-Assistive Technology
+
+<div align="center">
+
+### **Assistive Technology**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/VRExp.png)](https://vizhub.com/fokalview/0b4d4f422e2f4721b963b242b6388e84)
-VR Experience
+
+<div align="center">
+
+### **VR Experience**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/Immerion%20SCore.png)](https://vizhub.com/fokalview/772e7b2285d643cbaab3892a6d7d9300)
-Impact on Score
+
+<div align="center">
+
+### **Impact on Score**
+
+</div>
+
+---
 
 [![image](https://github.com/fokalview/VR-Data/blob/master/Engagment.png)](https://vizhub.com/fokalview/634ce52577aa4d509d022628e38526c3)
-Engagment
 
-```
+<div align="center">
+
+### **Engagement**
+
+</div>
+
+---
 
 
 Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md)](https://vizhub.com/fokalview/f2e723cc55194e98ab325c524371c4e4  
