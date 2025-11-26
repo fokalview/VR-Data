@@ -42,7 +42,7 @@ You can put images into here by pasting them into issues.
 
 You can make images into links like this:
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/f2e723cc55194e98ab325c524371c4e4)
+[![image]([https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png](https://github.com/fokalview/VR-Data/blob/master/3panel.png))](https://vizhub.com/fokalview/f2e723cc55194e98ab325c524371c4e4) Playstatiion VR
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/fokalview/0cc21ddd8b9c403b856b1dbe925a4ab5)
 
